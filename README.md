@@ -62,6 +62,7 @@ ngrok http 3000
 5. Set the HTTP method to POST
 
 ## Usage
+To test - call the twilio number we have configured. 
 
 The system will now:
 1. Answer incoming calls with an AI voice prompt
